@@ -3,7 +3,7 @@ satori system point calculator
 
 ## installation and usage
 ```sh
-git clone https://github.com/Cloud11665/satori-points
+git clone https://github.com/Kristynpos/satori-points
 cd satori-points
 pip install -r ./requirements.txt
 python .
@@ -18,7 +18,7 @@ https://satori.tcs.uj.edu.pl/contest/6460966/problems
 ```
 
 - Q: How does it get the data?
-- A: It's using a library of mine, [Koishi](https://github.com/Cloud11665/koishi)
+- A: It's using a library of mine, [Koishi](https://github.com/Kristynpos/koishi)
 
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
